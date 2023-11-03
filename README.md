@@ -1,6 +1,6 @@
-Hi, I am Aleks 👋
-I’m interested in Data Analytics 
-Welcome to my github page &#128521; 
+# Hi, I am Aleks 👋
+# I’m interested in Data Analytics 
+# Welcome to my github page &#128521; 
 
 <!--
 **Aksyon/Aksyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
